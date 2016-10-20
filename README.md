@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/60594305.svg)](https://zenodo.org/badge/latestdoi/60594305)
+
 # AutoRef
 The source code for the prototype developed as part of my Master's thesis "Automatic georeferencing of Orthophotographs and Aerial Images".
 The goal is to develop a program that can georeference an arbitrary orthophoto (or any other aerial image for that matter) by finding marked ground control points in the image, and then matching these with a set of measured-in ground control points.
