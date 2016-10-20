@@ -13,3 +13,14 @@ The project requires MathWork Matlab in order to run.
 Three toolboxes are also required: Image Processing Toolbox, Statistics and Machine Learning Toolbox, and [JSONlab](https://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab--a-toolbox-to-encode-decode-json-files).
 It has only been tested on Matlab R2016a, but should work on sufficiently new versions.
 
+## Citation
+As this was created for my Master's Thesis, please use the following citation if you use this project, or found it useful in your work :-)
+```bibtex
+@mastersthesis{Nistad2016,
+    author    = "Nistad, Sindre",
+    title     = "Automatic georeferencing of Orthophotographs, and Aerial Images",
+    school    = "Norwegian University of Science and Technology, NTNU",
+    year      = "2016",
+    month     = "June",
+    note      = "\url{http://hdl.handle.net/11250/2413312}",
+}
